@@ -16,8 +16,8 @@ int main()
 {
     // ---------- 1. DECLARE ALL VARIABLES ----------
     // Student details
-    string studentNumber;      // e.g. VF1008
-    string studentName;        // e.g. Naledi Mokoena
+    string studentNumber;      
+    string studentName;        
  
     // Membership choice
     int code = 0;              // Membership code typed by the user (1, 2 or 3)
